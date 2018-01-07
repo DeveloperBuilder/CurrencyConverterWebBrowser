@@ -1,0 +1,9 @@
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\bin\Debug\CurrencyConverterWebBrowser.exe.config
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\bin\Debug\CurrencyConverterWebBrowser.exe
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\bin\Debug\CurrencyConverterWebBrowser.pdb
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.Form1.resources
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.Properties.Resources.resources
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.csproj.GenerateResource.Cache
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.exe
+C:\Users\LSLIM\Source\Repos\CurrencyConverterWebBrowser\CurrencyConverterWebBrowser\obj\Debug\CurrencyConverterWebBrowser.pdb
